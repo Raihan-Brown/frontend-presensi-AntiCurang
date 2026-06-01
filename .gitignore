@@ -1,0 +1,14 @@
+# Python Environment
+env/
+venv/
+__pycache__/
+*.pyc
+
+# Vue & Node
+node_modules/
+dist/
+.DS_Store
+
+# Data Absensi (Biar riwayat dan muka lu nggak kesebar ke publik)
+visitor_database/
+visitor_history/
