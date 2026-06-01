@@ -13,7 +13,7 @@ const historyData = ref([])
 const isApiConnected = ref(false)
 
 // --- KONFIGURASI URL CLOUD & FALLBACK ---
-const API_URL = "https://[id-ngrok-lu].ngrok-free.app" // <- MASUKIN LINK NGROK LU
+const API_URL = "https://footwork-pastel-daughter.ngrok-free.dev" // <- MASUKIN LINK NGROK LU
 const demoVideoUrl = "https://youtube.com/watch?v=GANTI_LINK_VIDEO_LU" // <- MASUKIN LINK VIDEO LU
 
 const fetchOptions = (method = 'GET', body = null) => {
