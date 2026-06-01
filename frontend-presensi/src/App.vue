@@ -14,7 +14,7 @@ const isApiConnected = ref(false)
 const scanLine = ref(false)
 
 const API_URL = "https://footwork-pastel-daughter.ngrok-free.dev"
-const demoVideoUrl = "https://youtube.com/watch?v=GANTI_LINK_VIDEO_LU"
+const demoVideoUrl = "https://youtu.be/L0Hs5BwAf5I?si=5-i4mpVNQaay6ja_"
 
 const fetchOptions = (method = 'GET', body = null) => {
   const options = { method, headers: { "ngrok-skip-browser-warning": "69420" } }
